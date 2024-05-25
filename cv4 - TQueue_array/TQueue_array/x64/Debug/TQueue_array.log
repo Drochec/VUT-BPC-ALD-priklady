@@ -1,0 +1,5 @@
+﻿  TQueue.c
+V:\ALD\cv4 - TQueue_array\TQueue_array\TQueue.c(108,23): warning C4133: 'function': incompatible types - from 'TQueueIterator *' to 'const TQueue *'
+  main.c
+  Generating Code...
+  TQueue_array.vcxproj -> V:\ALD\cv4 - TQueue_array\x64\Debug\TQueue_array.exe

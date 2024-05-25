@@ -1,0 +1,13 @@
+<map id="set_iterator_to_next" name="set_iterator_to_next">
+<area shape="rect" id="Node000001" title="Posunutí iterátoru vpřed." alt="" coords="5,23,143,48"/>
+<area shape="rect" id="Node000002" href="$group___t_set_hash_table.html#ga891b531cc6373331e55101f2dd75ac4a" title="Zjištění platnosti pozice v hašovací tabulce." alt="" coords="375,23,561,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,20,190,7,259,3,327,7,397,17,396,23,326,13,259,8,191,13,123,25"/>
+<area shape="rect" id="Node000004" href="$group___t_set_hash_table.html#ga9218e24d2cc5a61596c4a45ef76f4c75" title="Výpočet následující pozice platné přihrádky v hašovací tabulce." alt="" coords="383,73,553,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,45,191,58,282,70,369,77,369,83,282,75,190,63,126,51"/>
+<area shape="rect" id="Node000005" href="$group___t_set_iterator.html#ga089f24c81ac3da7d1ac7ca24cc078dd8" title="Zjištění platnosti iterátoru." alt="" coords="191,23,327,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="143,33,177,33,177,38,143,38"/>
+<area shape="rect" id="Node000003" href="$_t_set_hash_table_open_addr_8c.html#aa4a90f23bbdbe5bb71a49d7df2ee5fc1" title="Funkce vracející hodnotu reprezentující smazanou přihrádku." alt="" coords="609,41,748,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,44,596,48,595,53,561,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="553,73,595,68,596,73,554,78"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="327,33,361,33,361,38,327,38"/>
+</map>

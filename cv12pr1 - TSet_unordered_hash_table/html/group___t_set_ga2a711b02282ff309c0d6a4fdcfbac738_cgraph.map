@@ -1,0 +1,19 @@
+<map id="set_erase" name="set_erase">
+<area shape="rect" id="Node000001" title="Odstranění elementu z množiny." alt="" coords="5,56,84,81"/>
+<area shape="rect" id="Node000002" href="$group___t_set_hash_table.html#ga1562a195e21d46896e078ba7e555042b" title="Deinicializace hašovací tabulky." alt="" coords="329,5,489,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,53,131,41,226,27,315,19,316,25,227,32,133,46,84,59"/>
+<area shape="rect" id="Node000004" href="$group___t_set_hash_table.html#gaee3600d3134fc51a78e4142bbdc0ba2b" title="Odstranění elementu z hašovací tabulky." alt="" coords="132,56,281,81"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,66,118,66,118,71,84,71"/>
+<area shape="rect" id="Node000008" href="$group___t_set.html#ga213cfb714cece49d955fc452b2aeb186" title="Přečtení počtu elementů množiny." alt="" coords="171,105,242,131"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="85,78,159,101,157,106,83,83"/>
+<area shape="rect" id="Node000003" href="$_t_set_hash_table_open_addr_8c.html#aa4a90f23bbdbe5bb71a49d7df2ee5fc1" title="Funkce vracející hodnotu reprezentující smazanou přihrádku." alt="" coords="551,42,689,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,28,538,42,537,47,470,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="281,65,537,61,537,66,281,70"/>
+<area shape="rect" id="Node000005" href="$group___t_set_hash_table.html#ga69c2697abdd49b443ea76077058df6b0" title="Vyhledání elementu o zadané hodnotě v hašovací tabulce využívající otevřené adresování" alt="" coords="331,107,487,132"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="259,79,345,101,344,106,258,84"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="456,104,537,82,538,87,458,109"/>
+<area shape="rect" id="Node000006" href="$group___t_set_element_hashable.html#gad8cfc9a36f36c44c10b660c5b370f67e" title="Porovnání dvou elementů" alt="" coords="537,107,703,132"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="488,117,524,117,524,122,488,122"/>
+<area shape="rect" id="Node000007" href="$group___t_set_element_hashable.html#ga4a88e3b3d94aa8fa572cf07764d843e0" title="Výpočet hash hodnoty elementu." alt="" coords="538,156,702,181"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="465,129,552,150,551,155,464,135"/>
+</map>

@@ -1,0 +1,71 @@
+<map id="testset_hardcoded" name="testset_hardcoded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,285,135,310"/>
+<area shape="rect" id="Node000002" href="$testbench_8c.html#ae7a610c069c6000940838c6a1e11bb42" title="Vytisknutí hodnoty v ADT pomocí iterátoru." alt="" coords="183,57,333,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,284,86,248,108,199,140,147,181,100,200,86,203,91,184,104,144,150,113,202,91,250,78,286"/>
+<area shape="rect" id="Node000004" href="$group___t_set_iterator.html#ga3928a980e2759ba130ce333e77f15fab" title="Přečtení hodnoty elementu z množiny pomocí iterátoru." alt="" coords="400,108,523,133"/>
+<area shape="poly" id="edge42_Node000001_Node000004" title=" " alt="" coords="74,284,89,255,112,218,143,180,181,150,232,129,285,116,338,111,386,111,386,116,338,117,286,122,233,134,184,155,146,184,116,221,94,257,79,286"/>
+<area shape="rect" id="Node000007" href="$group___t_set_iterator.html#ga089f24c81ac3da7d1ac7ca24cc078dd8" title="Zjištění platnosti iterátoru." alt="" coords="609,190,745,216"/>
+<area shape="poly" id="edge40_Node000001_Node000007" title=" " alt="" coords="79,283,119,238,148,214,182,195,238,177,297,166,356,161,415,161,525,170,612,185,612,190,524,175,415,166,357,167,298,172,239,183,184,200,151,218,123,241,83,287"/>
+<area shape="rect" id="Node000009" href="$group___t_set.html#ga8094d1ab68434b8413cd905895ff37ae" title="Deinicializace množiny." alt="" coords="213,310,303,336"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="135,304,199,312,199,318,135,309"/>
+<area shape="rect" id="Node000011" href="$group___t_set.html#ga2a711b02282ff309c0d6a4fdcfbac738" title="Odstranění elementu z množiny." alt="" coords="219,409,297,434"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="84,309,126,351,154,375,184,395,207,406,204,411,181,400,150,379,122,355,80,312"/>
+<area shape="rect" id="Node000017" href="$group___iterator_algorithms.html#gab8ba369b42eda61d010f35df73be73db" title="Zavolání zvolené funkce na každý element množiny od pozice určené iterátorem až do posledního element..." alt="" coords="210,209,306,234"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="101,282,212,237,214,242,103,287"/>
+<area shape="rect" id="Node000018" href="$group___t_set_iterator.html#ga6723a05c864198597ff49718020bd0d6" title="Posunutí iterátoru vpřed." alt="" coords="393,260,530,285"/>
+<area shape="poly" id="edge41_Node000001_Node000018" title=" " alt="" coords="135,291,379,275,379,280,135,296"/>
+<area shape="rect" id="Node000020" href="$group___t_set.html#ga674fb4a9d4cac982bca65b8b264b04b5" title="Inicializace prázdné množiny." alt="" coords="226,360,290,385"/>
+<area shape="poly" id="edge28_Node000001_Node000020" title=" " alt="" coords="98,308,184,346,214,357,212,362,182,351,96,313"/>
+<area shape="rect" id="Node000021" href="$group___t_set.html#ga0d1464cea78691ff9ad3dd1e32b55c60" title="Vložení elementu do množiny." alt="" coords="219,557,297,582"/>
+<area shape="poly" id="edge29_Node000001_Node000021" title=" " alt="" coords="76,310,85,354,105,417,137,485,159,516,184,544,207,557,204,562,181,548,155,520,133,488,100,419,80,356,71,311"/>
+<area shape="rect" id="Node000024" href="$group___t_set.html#ga768d36614713a921e88985484ac63cc1" title="Zjištění, zda množina obsahuje zadanou hodnotu elementu." alt="" coords="195,508,321,533"/>
+<area shape="poly" id="edge33_Node000001_Node000024" title=" " alt="" coords="77,310,90,346,111,396,143,449,162,473,184,494,191,499,188,503,181,498,158,477,138,452,106,398,85,348,72,311"/>
+<area shape="rect" id="Node000025" href="$group___t_set.html#ga2f7fd9486a5c300158d70dc79c6c6c8f" title="Zjištění, zda je množina prázdná" alt="" coords="208,458,308,484"/>
+<area shape="poly" id="edge35_Node000001_Node000025" title=" " alt="" coords="80,309,118,374,148,412,184,445,196,452,194,457,181,449,144,416,113,377,75,312"/>
+<area shape="rect" id="Node000026" href="$group___t_set_iterator.html#gab11bafbe7585e4bb0bd9ff2353d77765" title="Vytvoření nového iterátoru ukazujícího na první element množiny." alt="" coords="399,8,524,33"/>
+<area shape="poly" id="edge37_Node000001_Node000026" title=" " alt="" coords="70,285,77,238,96,171,110,135,129,101,152,70,181,44,204,29,229,19,282,6,336,3,385,5,384,10,336,8,283,12,231,24,207,34,184,48,156,73,133,104,115,138,101,173,83,239,75,285"/>
+<area shape="rect" id="Node000003" href="$group___t_set_element_hashable.html#ga3473fca967dede884b1c910838f2d8df" title="Uložení elementu do souboru." alt="" coords="385,57,537,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,67,372,67,372,72,333,72"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="311,80,397,102,396,107,309,85"/>
+<area shape="rect" id="Node000005" href="$group___t_set_hash_table.html#gaf6b548ed4295b1a4789d073b8a43db58" title="Přečtení hodnoty elementu z platné přihrádky v hašovací tabulce." alt="" coords="833,150,980,190"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="523,124,820,157,819,163,523,130"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="496,131,632,183,630,188,495,136"/>
+<area shape="rect" id="Node000006" href="$_t_set_hash_table_open_addr_8c.html#aa4a90f23bbdbe5bb71a49d7df2ee5fc1" title="Funkce vracející hodnotu reprezentující smazanou přihrádku." alt="" coords="1048,284,1187,324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="941,188,1075,275,1072,279,938,192"/>
+<area shape="rect" id="Node000008" href="$group___t_set_hash_table.html#ga891b531cc6373331e55101f2dd75ac4a" title="Zjištění platnosti pozice v hašovací tabulce." alt="" coords="813,241,1000,266"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="736,213,836,235,835,241,735,218"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="961,264,1035,282,1034,287,960,269"/>
+<area shape="rect" id="Node000010" href="$group___t_set_hash_table.html#ga1562a195e21d46896e078ba7e555042b" title="Deinicializace hašovací tabulky." alt="" coords="381,342,541,368"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="304,327,369,338,368,343,303,333"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="541,346,1034,308,1035,313,542,352"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="297,407,332,395,408,370,410,375,334,400,298,412"/>
+<area shape="rect" id="Node000012" href="$group___t_set_hash_table.html#gaee3600d3134fc51a78e4142bbdc0ba2b" title="Odstranění elementu z hašovací tabulky." alt="" coords="387,401,536,426"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="297,417,373,414,373,420,298,423"/>
+<area shape="rect" id="Node000016" href="$group___t_set.html#ga213cfb714cece49d955fc452b2aeb186" title="Přečtení počtu elementů množiny." alt="" coords="426,450,497,476"/>
+<area shape="poly" id="edge20_Node000011_Node000016" title=" " alt="" coords="298,427,413,451,412,456,297,432"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="536,402,745,373,999,330,1034,322,1035,328,1001,335,746,378,536,407"/>
+<area shape="rect" id="Node000013" href="$group___t_set_hash_table.html#ga69c2697abdd49b443ea76077058df6b0" title="Vyhledání elementu o zadané hodnotě v hašovací tabulce využívající otevřené adresování" alt="" coords="599,501,755,526"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="508,424,542,437,598,464,645,491,643,496,595,468,540,441,506,429"/>
+<area shape="poly" id="edge17_Node000013_Node000006" title=" " alt="" coords="739,498,883,464,951,443,999,423,1026,404,1052,381,1092,334,1096,338,1055,384,1030,408,1001,428,953,448,884,469,741,504"/>
+<area shape="rect" id="Node000014" href="$group___t_set_element_hashable.html#gad8cfc9a36f36c44c10b660c5b370f67e" title="Porovnání dvou elementů" alt="" coords="824,500,989,525"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="755,511,810,510,810,516,755,516"/>
+<area shape="rect" id="Node000015" href="$group___t_set_element_hashable.html#ga4a88e3b3d94aa8fa572cf07764d843e0" title="Výpočet hash hodnoty elementu." alt="" coords="825,549,989,574"/>
+<area shape="poly" id="edge19_Node000013_Node000015" title=" " alt="" coords="739,524,833,544,832,549,738,529"/>
+<area shape="poly" id="edge22_Node000017_Node000007" title=" " alt="" coords="306,217,596,204,596,209,306,222"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="307,231,397,254,396,259,306,236"/>
+<area shape="poly" id="edge27_Node000018_Node000007" title=" " alt="" coords="501,257,623,217,625,222,503,262"/>
+<area shape="poly" id="edge24_Node000018_Node000008" title=" " alt="" coords="530,267,799,255,799,261,530,272"/>
+<area shape="rect" id="Node000019" href="$group___t_set_hash_table.html#ga9218e24d2cc5a61596c4a45ef76f4c75" title="Výpočet následující pozice platné přihrádky v hašovací tabulce." alt="" coords="592,292,763,317"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="531,280,579,287,578,292,530,285"/>
+<area shape="poly" id="edge26_Node000019_Node000006" title=" " alt="" coords="763,302,1034,302,1034,307,763,307"/>
+<area shape="rect" id="Node000022" href="$group___t_set_hash_table.html#gaa2a0e99e7960542538a8d251c488b808" title="Inicializace hašovací tabulky." alt="" coords="394,552,529,577"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="297,566,380,564,381,569,298,571"/>
+<area shape="rect" id="Node000023" href="$group___t_set_hash_table.html#gaa4327c29b178abf7b79112463e1f9fb0" title="Vložení elementu do hašovací tabulky." alt="" coords="387,601,536,626"/>
+<area shape="poly" id="edge31_Node000021_Node000023" title=" " alt="" coords="298,575,389,595,388,601,297,581"/>
+<area shape="poly" id="edge32_Node000023_Node000013" title=" " alt="" coords="509,598,540,587,596,560,644,531,646,536,598,564,542,592,511,603"/>
+<area shape="poly" id="edge34_Node000024_Node000013" title=" " alt="" coords="322,517,585,512,586,518,322,522"/>
+<area shape="poly" id="edge36_Node000025_Node000016" title=" " alt="" coords="308,466,412,462,412,468,309,472"/>
+<area shape="rect" id="Node000027" href="$group___t_set_hash_table.html#ga6ae8410d0c50fb9f3104838bafdbc906" title="Výpočet první platné pozice v hašovací tabulce." alt="" coords="589,44,765,69"/>
+<area shape="poly" id="edge38_Node000026_Node000027" title=" " alt="" coords="525,28,588,39,587,44,524,33"/>
+<area shape="poly" id="edge39_Node000027_Node000006" title=" " alt="" coords="766,59,822,68,883,82,945,104,1002,135,1036,166,1065,201,1104,270,1100,273,1060,204,1032,169,998,140,943,109,882,87,821,73,765,64"/>
+</map>

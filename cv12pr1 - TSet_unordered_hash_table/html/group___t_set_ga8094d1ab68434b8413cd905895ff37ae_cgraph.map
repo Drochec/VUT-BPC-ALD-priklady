@@ -1,0 +1,7 @@
+<map id="set_destroy" name="set_destroy">
+<area shape="rect" id="Node000001" title="Deinicializace množiny." alt="" coords="5,13,96,38"/>
+<area shape="rect" id="Node000002" href="$group___t_set_hash_table.html#ga1562a195e21d46896e078ba7e555042b" title="Deinicializace hašovací tabulky." alt="" coords="144,13,304,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,23,130,23,130,28,96,28"/>
+<area shape="rect" id="Node000003" href="$_t_set_hash_table_open_addr_8c.html#aa4a90f23bbdbe5bb71a49d7df2ee5fc1" title="Funkce vracející hodnotu reprezentující smazanou přihrádku." alt="" coords="352,5,491,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,23,338,23,338,28,305,28"/>
+</map>

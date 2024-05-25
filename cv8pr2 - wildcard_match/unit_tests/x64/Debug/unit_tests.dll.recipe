@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>V:\ALD\cv8pr2 - wildcard_match\x64\Debug\wildcard_match.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>V:\ALD\cv8pr2 - wildcard_match\x64\Debug\unit_tests.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

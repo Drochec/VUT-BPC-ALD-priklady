@@ -1,0 +1,3 @@
+﻿  fibonacci.c
+V:\ALD\cv8pr1 - fibonacci\fibonacci\fibonacci.c(29,20): warning C4018: '<=': signed/unsigned mismatch
+  fibonacci.vcxproj -> V:\ALD\cv8pr1 - fibonacci\x64\Debug\fibonacci.exe

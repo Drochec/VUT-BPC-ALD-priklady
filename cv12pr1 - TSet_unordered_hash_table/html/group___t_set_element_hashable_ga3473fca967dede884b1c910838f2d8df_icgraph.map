@@ -1,0 +1,15 @@
+<map id="set_element_store_file" name="set_element_store_file">
+<area shape="rect" id="Node000001" title="Uložení elementu do souboru." alt="" coords="597,31,749,56"/>
+<area shape="rect" id="Node000002" href="$testbench_8c.html#ae7a610c069c6000940838c6a1e11bb42" title="Vytisknutí hodnoty v ADT pomocí iterátoru." alt="" coords="399,56,549,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,57,550,62,549,56,583,52"/>
+<area shape="rect" id="Node000003" href="$testbench_8c.html#a068734a4e1d6209769e0c6b1675ca02b" title="Provedení jednoho test z testovacího plánu na předaném ADT." alt="" coords="281,5,351,31"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="583,40,351,23,351,18,584,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,54,350,31,352,26,421,49"/>
+<area shape="rect" id="Node000006" href="$group___main_program.html#ga2762b0417283abc168151cbffee8216c" title=" " alt="" coords="104,56,233,81"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="385,71,234,71,234,66,385,66"/>
+<area shape="rect" id="Node000004" href="$testbench_8c.html#a2fa1559684d267665b1c2433208511d3" title="Provedení všech testů zadaného testovacího plánu na předaném ADT." alt="" coords="117,7,221,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,21,221,22,221,16,267,16"/>
+<area shape="rect" id="Node000005" href="$group___main_program.html#ga0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,32,56,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,34,57,43,56,38,103,29"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="90,58,56,52,57,46,91,52"/>
+</map>

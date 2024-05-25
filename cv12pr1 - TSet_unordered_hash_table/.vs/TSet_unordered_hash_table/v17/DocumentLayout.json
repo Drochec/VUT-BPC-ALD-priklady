@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetHashTableOpenAddr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetElementHashable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetElementHashable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetHashTableOpenAddr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC52DDF-295C-4B3C-8EA2-11A408A58947}|TSet_unordered_hash_table\\TSet_unordered_hash_table.vcxproj|\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSet.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TSet.h",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSet.h",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\TSet.h",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSet.h",
+              "RelativeToolTip": "TSet_unordered_hash_table\\TSet.h",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJ4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T17:43:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TSetHashTableOpenAddr.h",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetHashTableOpenAddr.h",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\TSetHashTableOpenAddr.h",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetHashTableOpenAddr.h",
+              "RelativeToolTip": "TSet_unordered_hash_table\\TSetHashTableOpenAddr.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T17:40:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TSetElementHashable.h",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetElementHashable.h",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\TSetElementHashable.h",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetElementHashable.h",
+              "RelativeToolTip": "TSet_unordered_hash_table\\TSetElementHashable.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAIAwwDkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T17:40:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TSet.c",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSet.c",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\TSet.c",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSet.c",
+              "RelativeToolTip": "TSet_unordered_hash_table\\TSet.c",
+              "ViewState": "AQIAADgAAAAAAAAAAAApwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-29T17:40:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TSetHashTableOpenAddr.c",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetHashTableOpenAddr.c",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\TSetHashTableOpenAddr.c",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetHashTableOpenAddr.c",
+              "RelativeToolTip": "TSet_unordered_hash_table\\TSetHashTableOpenAddr.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-29T17:40:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TSetElementHashable.c",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetElementHashable.c",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\TSetElementHashable.c",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\TSetElementHashable.c",
+              "RelativeToolTip": "TSet_unordered_hash_table\\TSetElementHashable.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-29T17:40:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\main.c",
+              "RelativeDocumentMoniker": "TSet_unordered_hash_table\\main.c",
+              "ToolTip": "\\\\gigadisk2.ro.vutbr.cz\\GIGADISK2\\home\\8\\7\\2\\256278\\ALD\\cv12pr1 - TSet_unordered_hash_table\\TSet_unordered_hash_table\\main.c",
+              "RelativeToolTip": "TSet_unordered_hash_table\\main.c",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAD8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-29T17:40:34.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

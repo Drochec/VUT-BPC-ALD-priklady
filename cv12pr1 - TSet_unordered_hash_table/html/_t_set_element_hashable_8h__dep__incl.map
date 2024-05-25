@@ -1,0 +1,20 @@
+<map id="TSetElementHashable.h" name="TSetElementHashable.h">
+<area shape="rect" id="Node000001" title="Definice typu Hashable Basic SetElement a implementace API." alt="" coords="103,5,265,31"/>
+<area shape="rect" id="Node000002" href="$_t_set_element_hashable_8c.html" title="Definice globální proměnné realizující počítadlo operací porovnání dvou hodnot typu Hashable SetEleme..." alt="" coords="5,79,168,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,41,104,81,101,76,156,37"/>
+<area shape="rect" id="Node000003" href="$_t_set_hash_table_open_addr_8h.html" title="Implementace typu SetHashTable &#45; (hašovací tabulka využívající otevřené adresování)" alt="" coords="192,79,371,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,37,267,76,264,81,209,41"/>
+<area shape="rect" id="Node000004" href="$_t_set_8h.html" title="Definice typu Set &#45; (realizace unordered množiny pomocí hašovací tabulky)" alt="" coords="179,152,239,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,116,223,154,219,150,258,112"/>
+<area shape="rect" id="Node000009" href="$_t_set_hash_table_open_addr_8c.html" title="Implementace API pro typ SetHashTable &#45; (hašovací tabulka využívající otevřené adresování)" alt="" coords="264,152,443,177"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="305,112,344,150,340,154,301,116"/>
+<area shape="rect" id="Node000005" href="$_t_set_8c.html" title="Implementace API pro typ Set (realizace unordered množiny pomocí hašovací tabulky)" alt="" coords="111,225,171,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,189,154,227,150,223,187,185"/>
+<area shape="rect" id="Node000006" href="$main_8c.html" title="Hlavní program pro testování ADT TSet &#45; (realizace unordered množiny pomocí hašovací tabulky)" alt="" coords="179,299,240,324"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="212,191,212,298,207,298,207,191"/>
+<area shape="rect" id="Node000007" href="$testbench_8h.html" title="Definice testbench API pro testování operací zvoleného ADT." alt="" coords="247,225,337,251"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="235,184,280,223,277,227,231,188"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="270,262,225,300,221,296,267,258"/>
+<area shape="rect" id="Node000008" href="$testbench_8c.html" title="Implementace testbench API pro testování operací zvoleného ADT." alt="" coords="264,299,355,324"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="301,263,309,298,304,299,295,265"/>
+</map>

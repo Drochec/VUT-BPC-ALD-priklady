@@ -1,0 +1,4 @@
+﻿  main.c
+V:\ALD\cv7pr2 - basic_sorts_element_struct\basic_sorts_element_struct\main.c(90,2): warning C4013: 'select_insert' undefined; assuming extern returning int
+main.obj : error LNK2019: unresolved external symbol select_insert referenced in function main
+V:\ALD\cv7pr2 - basic_sorts_element_struct\x64\Debug\basic_sorts_element_struct.exe : fatal error LNK1120: 1 unresolved externals
